@@ -241,7 +241,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #29425c;
+  color: #1d2f41;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7811,6 +7811,7 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-image: url("../assets/img/nav_wallpaper_img.jpg");
 }
 
 .bg-secondary {
